@@ -18,7 +18,7 @@ Look at the right-hand column of this page (or tap the menu bar on mobile) and s
 
 ### 2. Download the Binary
 Under the **Assets** dropdown menu of the latest release, click directly on:
-```text
+
 app-release-signed.apk
 3. Native Deployment
 Open your device's file manager or download history and tap the downloaded .apk file.
