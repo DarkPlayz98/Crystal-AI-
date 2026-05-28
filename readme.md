@@ -1,1 +1,1 @@
-
+Hello Everyone Im a solo developer I made this AI called Crystal AI No limits no Subscription Completely Free! So Im Gonna Update It Frequently if you want to download it Go to Releases And Download it It helps me a lot!
