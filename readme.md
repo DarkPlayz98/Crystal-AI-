@@ -1,5 +1,5 @@
 # Crystal AI — Direct Download Hub 📥
-
+[![Engine](https://img.shields.io/badge/AI--Engine-Crystal%20AI-orange.svg?style=for-the-badge&logo=google-gemini)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge&logo=android)](https://github.com/)
 [![Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge)](https://github.com/)
 
